@@ -19,6 +19,7 @@ I never made anything using **Fusion** and **KiCad**. Since this is my first tim
 ## BOM : 
 -	1x Seeed XIAO RP2040
 -	4x M3x16mm screws
--	6x Blank DSA Keycaps
+-	6x Blank DSA Keycaps (5Black 1Red)
 -	1x 0.91 inch OLED displays (ssd1036)
 -	6x MX-Style Switches
+-	3D print (2 parts in black)
