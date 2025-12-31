@@ -25,7 +25,7 @@ I managed to make all of the 6 switches work however since i messed up my pcb th
 -	6x MX-Style Switches
 -	3D print (2 parts in black)
 
-### Final Result
+### Build Image
 
 ![PXL_20251223_221318326](https://github.com/user-attachments/assets/cad61f3c-659e-483d-95c1-fcdf640c28dd)
 
