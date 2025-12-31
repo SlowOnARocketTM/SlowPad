@@ -3,7 +3,8 @@ My Sumbmition to the HackClub Blueprint!
 ## My Goal
 When I started making the SlowPad, I had a goal in mind. I wanted a macro pad that could be versatile. I wanted to be able to switch the macro depending on what I was doing and while it may seem like an easy thing to make, 
 I never made anything using **Fusion** and **KiCad**. Since this is my first time using hardware and software together i'm actually quite happy of the result!
-
+### Note
+I managed to make all of the 6 switches work however since i messed up my pcb theres no way to make the oled display work.
 ### Overall Result
 <img width="1520" height="722" alt="OverallDESIGN" src="https://github.com/user-attachments/assets/e22a05b7-f1b7-4922-9247-dadc580a2180" />
 
@@ -23,3 +24,8 @@ I never made anything using **Fusion** and **KiCad**. Since this is my first tim
 -	1x 0.91 inch OLED displays (ssd1036)
 -	6x MX-Style Switches
 -	3D print (2 parts in black)
+
+### Final Result
+
+![PXL_20251223_221318326](https://github.com/user-attachments/assets/cad61f3c-659e-483d-95c1-fcdf640c28dd)
+
